@@ -6,7 +6,18 @@ The project showcases a clean online store interface for electronic products suc
 
 ## Live Demo
 
-[View Live Demo](https://milestone-3-eccommerce.vercel.app)
+[View Live Demo](https://milestone-3-eccommerce.vercel.app) 
+
+## Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+* Building responsive e-commerce interfaces with Next.js
+* Structuring reusable React components
+* Using TypeScript for frontend development
+* Styling modern user interfaces with Tailwind CSS
+* Organizing scalable frontend project structures
+* Deploying frontend applications on Vercel
 
 ## Project Overview
 
